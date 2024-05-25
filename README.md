@@ -1,4 +1,4 @@
-# MySkill-Project-1-Prediction-Model
+# MySkill Project 1: Prediction Model FinanKu
 Project 1 from Data Analyst Course at MySkill
 
 ### **PROBLEM STATEMENT**
